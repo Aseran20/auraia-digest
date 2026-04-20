@@ -1,0 +1,183 @@
+<mjml>
+  <mj-head>
+    <mj-font name="DM Sans" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"></mj-font>
+    <mj-attributes>
+      <mj-text font-family="'DM Sans', Calibri, Arial, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-all font-family="'DM Sans', Calibri, Arial, sans-serif" />
+    </mj-attributes>
+    <mj-style>
+      p { margin: 0 !important; }
+      @font-face {
+        font-family: 'DM Sans';
+        mso-font-alt: 'Calibri';
+      }
+      .tag { display: inline-block; padding: 3px 12px; border-radius: 99px; font-size: 11px; font-weight: 600; }
+      .tag-fire { background-color: #fed7aa; color: #9a3412; }
+      .tag-alarm { background-color: #fee2e2; color: #991b1b; }
+      .divider-gold { border-color: #D4952A !important; }
+    </mj-style>
+    <mj-preview>3 opérations M&amp;A — Sécurité incendie en Suisse — 2025 + YTD 2026</mj-preview>
+  </mj-head>
+
+  <mj-body width="600px">
+
+    <!-- ====== HEADER ====== -->
+    <mj-section padding="32px 40px 24px" border="1px solid #e2e8f0" border-radius="6px">
+      <mj-column width="55%" vertical-align="middle" padding="0">
+        <mj-text font-size="26px" font-weight="700" color="#1a2332" line-height="32px" padding="0px">
+          Digest M&amp;A
+        </mj-text>
+        <mj-text font-size="15px" font-weight="400" color="#374151" line-height="22px" padding="4px 0 0 0">
+          Sécurité incendie · Suisse
+        </mj-text>
+        <mj-text font-size="12px" color="#4b5563" padding="6px 0 0 0" line-height="18px">
+          2025 — Avril 2026 · 3 opérations identifiées
+        </mj-text>
+      </mj-column>
+      <mj-column width="45%" vertical-align="middle" padding="0">
+        <mj-image width="160px" alt="Auraïa Capital Advisory" align="right" padding="0px"
+          src="data:image/png;base64,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" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Spacing -->
+    <mj-section padding="6px 0"></mj-section>
+
+    <!-- ====== SYNTHÈSE + RECAP ====== -->
+    <mj-section padding="24px 40px" border="1px solid #e2e8f0" border-radius="6px">
+      <mj-column>
+        <mj-text font-size="15px" color="#1f2937" line-height="26px" padding="0px">
+          <strong style="color: #111827;">Marché en tension, M&amp;A en accélération.</strong> Trois opérations matérielles en 15,5 mois sur la sécurité incendie suisse, dominées par l'entrée du fonds français Trajan (Edmond de Rothschild PE) au capital de Fire System SA — premier signal fort de l'appétit du PE étranger pour les leaders romands à récurrence forte. Toile de fond : drame de Crans-Montana (41 morts, +30-40% de demande) et refonte des prescriptions BSV 2026.
+        </mj-text>
+        <mj-spacer height="14px" />
+        <mj-text font-size="14px" font-weight="700" color="#111827" line-height="22px" padding="0px">
+          Dans ce digest :
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text font-size="14px" color="#1f2937" line-height="24px" padding="0px">
+          <ul style="margin: 0; padding-left: 18px;">
+            <li>Trajan (Edmond de Rothschild PE) prend le contrôle de Fire System SA — protection incendie passive, leader romand</li>
+            <li>Debrunner Koenig intègre Simfloc AG pour bâtir une offre BIM2Field complète</li>
+            <li>Securiton absorbe Si Electronic AG — consolidation alarme/vidéo intra-Securitas</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spacing -->
+    <mj-section padding="6px 0"></mj-section>
+
+    <!-- ====== DEAL 1 — Highlight ====== -->
+    <mj-section padding="24px 40px" border="2px solid #D4952A" border-radius="6px">
+      <mj-column>
+        <mj-image width="32px" src="https://img.logo.dev/edmond-de-rothschild.com?token=pk_a514bKwfQ2OAdSu_uQBOHA&size=128&format=png" alt="Edmond de Rothschild" padding="0 0 8px 0" align="left" border-radius="4px" />
+        <mj-text font-size="10px" font-weight="700" color="#D4952A" letter-spacing="1px" text-transform="uppercase" padding="0px">
+          ★ Opération majeure
+        </mj-text>
+        <mj-spacer height="8px" />
+        <mj-text font-size="18px" font-weight="700" color="#111827" line-height="26px" padding="0px">
+          Trajan Investment Advisor (Edmond de Rothschild PE) → Fire System SA
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text font-size="13px" color="#4b5563" line-height="22px" padding="0px">
+          Annoncé le 29 septembre 2025 · Suisse · Montant non divulgué · <span class="tag tag-fire">Protection incendie passive</span>
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text font-size="14px" color="#1f2937" line-height="24px" padding="0px">
+          Trajan Investment Advisor — fonds français membre partenaire d'Edmond de Rothschild Private Equity — prend une participation majoritaire dans Fire System SA, leader incontesté de la protection incendie passive en Suisse romande (créée en 2000, basée à Bulle, ~140-150 employés, 6 succursales, CA 2024 de CHF 25M, croissance organique &gt;10%/an depuis 2019, plus de 10'000 bâtiments protégés dont Nespresso, Swisscom et les HUG). <strong>Première acquisition de Trajan en Suisse</strong> et cas-type de transmission : sortie progressive des fondateurs Guillet et Sonney en réinvestissant en équity, direction opérationnelle reprise par Daniel Valenti et Loïc Estoquié. Plan stratégique en quatre piliers : maintenance récurrente, expansion alémanique, croissance externe par bolt-on, diversification vers la protection incendie active. Conseils : Stout Advisory (M&amp;A), Lenz &amp; Staehelin (vendeurs), Squire Patton Boggs et NKF (acheteur), BDO (DD financière), financement UBS.
+        </mj-text>
+        <mj-spacer height="8px" />
+        <mj-text font-size="12px" padding="0px">
+          <a href="https://www.letemps.ch/economie/la-pme-romande-fire-system-passe-en-mains-francaises-et-vise-la-suisse-alemanique" style="color: #6b7280; font-weight: 600; text-decoration: none; border-bottom: 1px solid #d1d5db; padding-bottom: 1px;">Source ↗</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spacing between cards -->
+    <mj-section padding="6px 0"></mj-section>
+
+    <!-- ====== DEAL 2 ====== -->
+    <mj-section padding="24px 40px" border="1px solid #e2e8f0" border-radius="6px">
+      <mj-column>
+        <mj-image width="28px" src="https://img.logo.dev/debrunner-koenig.com?token=pk_a514bKwfQ2OAdSu_uQBOHA&size=128&format=png" alt="Debrunner Koenig" padding="0 0 6px 0" align="left" border-radius="4px" />
+        <mj-text font-size="17px" font-weight="700" color="#111827" line-height="26px" padding="0px">
+          Debrunner Koenig Gruppe → Simfloc AG
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text font-size="13px" color="#4b5563" line-height="22px" padding="0px">
+          Annoncé le 4 juin 2025 · Suisse · Montant non divulgué · <span class="tag tag-fire">Protection incendie passive</span>
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text font-size="14px" color="#1f2937" line-height="24px" padding="0px">
+          Debrunner Koenig Gruppe (St-Gall), grossiste leader des installations bâtiment, intègre Simfloc AG (Frauenkappelen, BE), spécialiste de la pose de systèmes d'avant-mur, calfeutrement, ignifugation par flocage et isolation. Le rationnel est vertical : Debrunner Koenig, déjà présent sur la modélisation BIM, la planification et la production, ajoute la brique « pose » pour devenir le <strong>premier fournisseur intégré BIM2Field en Suisse</strong>. Simon Engler reste à la tête de Simfloc, l'équipe est conservée et la marque maintenue — schéma d'intégration souple typique des bolt-on industriels. Lecture intéressante de la convergence en cours entre négoce de matériaux et services techniques spécialisés, dont la protection incendie passive est une composante clé.
+        </mj-text>
+        <mj-spacer height="8px" />
+        <mj-text font-size="12px" padding="0px">
+          <a href="https://www.presseportal.ch/de/pm/100063290/100932242" style="color: #6b7280; font-weight: 600; text-decoration: none; border-bottom: 1px solid #d1d5db; padding-bottom: 1px;">Source ↗</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spacing between cards -->
+    <mj-section padding="6px 0"></mj-section>
+
+    <!-- ====== DEAL 3 ====== -->
+    <mj-section padding="24px 40px" border="1px solid #e2e8f0" border-radius="6px">
+      <mj-column>
+        <mj-image width="28px" src="https://img.logo.dev/securiton.ch?token=pk_a514bKwfQ2OAdSu_uQBOHA&size=128&format=png" alt="Securiton" padding="0 0 6px 0" align="left" border-radius="4px" />
+        <mj-text font-size="17px" font-weight="700" color="#111827" line-height="26px" padding="0px">
+          Securiton (Swiss Securitas Group) → Si Electronic AG
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text font-size="13px" color="#4b5563" line-height="22px" padding="0px">
+          Annoncé le 30 janvier 2026 · Suisse · Montant non divulgué · <span class="tag tag-alarm">Alarme &amp; vidéosurveillance</span>
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text font-size="14px" color="#1f2937" line-height="24px" padding="0px">
+          Securiton, filiale technique du Swiss Securitas Group et acteur de référence en détection incendie, intrusion et vidéo, intègre Si Electronic AG (Bäch, canton de Schwyz), spécialiste suisse alémanique des systèmes d'alarme et de vidéosurveillance fondé en 1993 (ex-Sicom AG, déjà rattaché historiquement au périmètre Securitas Group). Opération à apparence largement intra-groupe qui consolide l'offre Securiton sur la sûreté technique avec un effet de plateforme et de mutualisation commerciale en amont du déploiement BSV 2026. Illustration de la logique de simplification capitalistique chez les grands groupes suisses de sécurité — moins une opération de croissance externe ouverte au marché qu'un signal de focus produit.
+        </mj-text>
+        <mj-spacer height="8px" />
+        <mj-text font-size="12px" padding="0px">
+          <a href="https://www.securiton.ch/en" style="color: #6b7280; font-weight: 600; text-decoration: none; border-bottom: 1px solid #d1d5db; padding-bottom: 1px;">Source ↗</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spacing -->
+    <mj-section padding="6px 0"></mj-section>
+
+    <!-- ====== CTA ====== -->
+    <mj-section padding="24px 40px" border="2px solid #D4952A" border-radius="6px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="700" color="#111827" line-height="26px" padding="0px">
+          Un deal vous interpelle ?
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text font-size="14px" color="#4b5563" line-height="22px" padding="0px">
+          Contactez-nous pour une analyse détaillée ou un accompagnement sur une opportunité.
+        </mj-text>
+        <mj-spacer height="14px" />
+        <mj-button font-family="'DM Sans', Calibri, Arial, sans-serif" border-radius="6px" inner-padding="11px 28px" font-size="13px" font-weight="600" background-color="#D4952A" color="#ffffff" align="left" padding="0px" href="mailto:contact@auraia.com">
+          Nous contacter
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- ====== FOOTER ====== -->
+    <mj-section padding="20px 40px 28px">
+      <mj-column>
+        <mj-image width="120px" alt="Auraïa Capital Advisory" align="center" padding="0 0 12px 0"
+          src="data:image/png;base64,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" />
+        <mj-text align="center" font-size="12px" color="#4b5563" padding="0px" line-height="20px">
+          Ce digest est préparé à partir de sources publiques.<br/>Les informations ne constituent pas un conseil en investissement.
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text align="center" font-size="11px" color="#4b5563" padding="0px">
+          Généré le 16 avril 2026
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

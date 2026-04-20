@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Local Claude Code state
+.claude/settings.local.json
+.remember/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
+
+# Logs
+*.log

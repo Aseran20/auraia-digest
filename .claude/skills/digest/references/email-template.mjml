@@ -1,0 +1,237 @@
+<mjml>
+  <mj-head>
+    <mj-font name="DM Sans" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"></mj-font>
+    <mj-attributes>
+      <mj-text font-family="'DM Sans', Calibri, Arial, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-all font-family="'DM Sans', Calibri, Arial, sans-serif" />
+    </mj-attributes>
+    <mj-style>
+      p { margin: 0 !important; }
+      @font-face {
+        font-family: 'DM Sans';
+        mso-font-alt: 'Calibri';
+      }
+      .tag { display: inline-block; padding: 3px 12px; border-radius: 99px; font-size: 11px; font-weight: 600; }
+      .tag-cloud { background-color: #dbeafe; color: #1e40af; }
+      .tag-cyber { background-color: #fee2e2; color: #991b1b; }
+      .tag-data { background-color: #d1fae5; color: #065f46; }
+      .tag-green { background-color: #fef9c3; color: #854d0e; }
+      .tag-services { background-color: #ede9fe; color: #5b21b6; }
+      .divider-gold { border-color: #D4952A !important; }
+    </mj-style>
+    <mj-preview>5 acquisitions IT Services — France &amp; Suisse — mars 2026</mj-preview>
+  </mj-head>
+
+  <mj-body width="600px">
+
+    <!-- ====== HEADER ====== -->
+    <mj-section padding="32px 40px 24px" border="1px solid #e2e8f0" border-radius="6px">
+      <mj-column width="55%" vertical-align="middle" padding="0">
+        <mj-text font-size="26px" font-weight="700" color="#1a2332" line-height="32px" padding="0px">
+          Digest M&amp;A
+        </mj-text>
+        <mj-text font-size="15px" font-weight="400" color="#374151" line-height="22px" padding="4px 0 0 0">
+          IT Services · France &amp; Suisse
+        </mj-text>
+        <mj-text font-size="12px" color="#4b5563" padding="6px 0 0 0" line-height="18px">
+          Mars 2026 · 5 opérations identifiées
+        </mj-text>
+      </mj-column>
+      <mj-column width="45%" vertical-align="middle" padding="0">
+        <mj-image width="160px" alt="Auraïa Capital Advisory" align="right" padding="0px"
+          src="data:image/png;base64,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" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Spacing -->
+    <mj-section padding="6px 0"></mj-section>
+
+    <!-- ====== SYNTHÈSE + RECAP ====== -->
+    <mj-section padding="24px 40px" border="1px solid #e2e8f0" border-radius="6px">
+      <mj-column>
+        <mj-text font-size="15px" color="#1f2937" line-height="26px" padding="0px">
+          <strong style="color: #111827;">Activité soutenue ce mois-ci.</strong> La tendance dominante reste la consolidation des ESN de taille moyenne par les grands groupes, avec un accent sur le cloud et la cybersécurité. Deux opérations cross-border franco-suisses illustrent l'intégration croissante du marché IT lémanique.
+        </mj-text>
+        <mj-spacer height="14px" />
+        <mj-text font-size="14px" font-weight="700" color="#111827" line-height="22px" padding="0px">
+          Dans ce digest :
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text font-size="14px" color="#1f2937" line-height="24px" padding="0px">
+          <ul style="margin: 0; padding-left: 18px;">
+            <li>Accenture acquiert GreenIT Solutions (€120M) — IT for Sustainability</li>
+            <li>Capgemini s'étend en Suisse avec CloudNow SA (€85M) — Cloud</li>
+            <li>Sopra Steria poursuit son build-up cyber avec CyberShield France</li>
+            <li>Devoteam entre en Suisse alémanique via SwissData GmbH (€35M)</li>
+            <li>Consolidation locale : GIR rachète NetPlus en Suisse romande</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spacing -->
+    <mj-section padding="6px 0"></mj-section>
+
+    <!-- ====== DEAL 1 — Highlight ====== -->
+    <mj-section padding="24px 40px" border="2px solid #D4952A" border-radius="6px">
+      <mj-column>
+        <mj-image width="32px" src="https://img.logo.dev/accenture.com?token=pk_a514bKwfQ2OAdSu_uQBOHA&size=128&format=png" alt="Accenture" padding="0 0 8px 0" align="left" border-radius="4px" />
+        <mj-text font-size="10px" font-weight="700" color="#D4952A" letter-spacing="1px" text-transform="uppercase" padding="0px">
+          ★ Opération majeure
+        </mj-text>
+        <mj-spacer height="8px" />
+        <mj-text font-size="18px" font-weight="700" color="#111827" line-height="26px" padding="0px">
+          Accenture → GreenIT Solutions
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text font-size="13px" color="#4b5563" line-height="22px" padding="0px">
+          Annoncé le 5 mars 2026 · France · VE est. <strong style="color: #D4952A;">€120M</strong> · <span class="tag tag-green">IT for Sustainability</span>
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text font-size="14px" color="#1f2937" line-height="24px" padding="0px">
+          Accenture acquiert GreenIT Solutions, cabinet parisien de 200 consultants spécialisé dans l'accompagnement des entreprises vers un IT durable (Green IT, optimisation énergétique des datacenters, éco-conception logicielle). Cette acquisition illustre la montée en puissance du créneau sustainability dans les services IT. GreenIT compte parmi ses clients plusieurs entreprises du CAC 40.
+        </mj-text>
+        <mj-spacer height="8px" />
+        <mj-text font-size="12px" padding="0px">
+          <a href="https://example.com/accenture-greenit" style="color: #6b7280; font-weight: 600; text-decoration: none; border-bottom: 1px solid #d1d5db; padding-bottom: 1px;">Source ↗</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spacing between cards -->
+    <mj-section padding="6px 0"></mj-section>
+
+    <!-- ====== DEAL 2 ====== -->
+    <mj-section padding="24px 40px" border="1px solid #e2e8f0" border-radius="6px">
+      <mj-column>
+        <mj-image width="28px" src="https://img.logo.dev/capgemini.com?token=pk_a514bKwfQ2OAdSu_uQBOHA&size=128&format=png" alt="Capgemini" padding="0 0 6px 0" align="left" border-radius="4px" />
+        <mj-text font-size="17px" font-weight="700" color="#111827" line-height="26px" padding="0px">
+          Capgemini → CloudNow SA
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text font-size="13px" color="#4b5563" line-height="22px" padding="0px">
+          Annoncé le 22 mars 2026 · Suisse · VE est. <strong style="color: #D4952A;">€85M</strong> · <span class="tag tag-cloud">Cloud &amp; Infra</span>
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text font-size="14px" color="#1f2937" line-height="24px" padding="0px">
+          Capgemini acquiert CloudNow SA, ESN genevoise de 320 collaborateurs spécialisée dans la migration cloud et les infrastructures hybrides. Cette acquisition renforce la présence de Capgemini en Suisse romande. Le montant de €85M valorise CloudNow à environ 2x son chiffre d'affaires.
+        </mj-text>
+        <mj-spacer height="8px" />
+        <mj-text font-size="12px" padding="0px">
+          <a href="https://example.com/capgemini-cloudnow" style="color: #6b7280; font-weight: 600; text-decoration: none; border-bottom: 1px solid #d1d5db; padding-bottom: 1px;">Source ↗</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spacing between cards -->
+    <mj-section padding="6px 0"></mj-section>
+
+    <!-- ====== DEAL 3 ====== -->
+    <mj-section padding="24px 40px" border="1px solid #e2e8f0" border-radius="6px">
+      <mj-column>
+        <mj-image width="28px" src="https://img.logo.dev/soprasteria.com?token=pk_a514bKwfQ2OAdSu_uQBOHA&size=128&format=png" alt="Sopra Steria" padding="0 0 6px 0" align="left" border-radius="4px" />
+        <mj-text font-size="17px" font-weight="700" color="#111827" line-height="26px" padding="0px">
+          Sopra Steria → CyberShield France
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text font-size="13px" color="#4b5563" line-height="22px" padding="0px">
+          Annoncé le 18 mars 2026 · France · Montant non divulgué · <span class="tag tag-cyber">Cybersécurité</span>
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text font-size="14px" color="#1f2937" line-height="24px" padding="0px">
+          Sopra Steria poursuit sa stratégie de build-up en cybersécurité avec l'acquisition de CyberShield France, pure player lyonnais d'une centaine de consultants. L'opération s'inscrit dans le plan stratégique 2025-2028 visant à faire de la cybersécurité le premier relais de croissance du groupe.
+        </mj-text>
+        <mj-spacer height="8px" />
+        <mj-text font-size="12px" padding="0px">
+          <a href="https://example.com/sopra-cybershield" style="color: #6b7280; font-weight: 600; text-decoration: none; border-bottom: 1px solid #d1d5db; padding-bottom: 1px;">Source ↗</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spacing between cards -->
+    <mj-section padding="6px 0"></mj-section>
+
+    <!-- ====== DEAL 4 ====== -->
+    <mj-section padding="24px 40px" border="1px solid #e2e8f0" border-radius="6px">
+      <mj-column>
+        <mj-image width="28px" src="https://img.logo.dev/devoteam.com?token=pk_a514bKwfQ2OAdSu_uQBOHA&size=128&format=png" alt="Devoteam" padding="0 0 6px 0" align="left" border-radius="4px" />
+        <mj-text font-size="17px" font-weight="700" color="#111827" line-height="26px" padding="0px">
+          Devoteam → SwissData GmbH
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text font-size="13px" color="#4b5563" line-height="22px" padding="0px">
+          Annoncé le 12 mars 2026 · Suisse · VE est. <strong style="color: #D4952A;">€35M</strong> · <span class="tag tag-data">Data &amp; Analytics</span>
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text font-size="14px" color="#1f2937" line-height="24px" padding="0px">
+          Devoteam fait son entrée sur le marché suisse alémanique en rachetant SwissData GmbH, société zurichoise de 85 collaborateurs positionnée sur le data engineering. Cette opération permet à Devoteam d'accéder au marché germanophone et de compléter son maillage européen.
+        </mj-text>
+        <mj-spacer height="8px" />
+        <mj-text font-size="12px" padding="0px">
+          <a href="https://example.com/devoteam-swissdata" style="color: #6b7280; font-weight: 600; text-decoration: none; border-bottom: 1px solid #d1d5db; padding-bottom: 1px;">Source ↗</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spacing between cards -->
+    <mj-section padding="6px 0"></mj-section>
+
+    <!-- ====== DEAL 5 ====== -->
+    <mj-section padding="24px 40px" border="1px solid #e2e8f0" border-radius="6px">
+      <mj-column>
+        <mj-text font-size="17px" font-weight="700" color="#111827" line-height="26px" padding="0px">
+          Groupe Informatique Romand → NetPlus Sàrl
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text font-size="13px" color="#4b5563" line-height="22px" padding="0px">
+          Annoncé le 1 mars 2026 · Suisse · Montant non divulgué · <span class="tag tag-services">Services managés</span>
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text font-size="14px" color="#1f2937" line-height="24px" padding="0px">
+          Opération entre deux acteurs locaux : le Groupe Informatique Romand (GIR) rachète NetPlus Sàrl, fournisseur lausannois de services IT managés pour PME. GIR consolide sa position de leader régional des services de proximité en Suisse romande.
+        </mj-text>
+        <mj-spacer height="8px" />
+        <mj-text font-size="12px" padding="0px">
+          <a href="https://example.com/gir-netplus" style="color: #6b7280; font-weight: 600; text-decoration: none; border-bottom: 1px solid #d1d5db; padding-bottom: 1px;">Source ↗</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spacing -->
+    <mj-section padding="6px 0"></mj-section>
+
+    <!-- ====== CTA ====== -->
+    <mj-section padding="24px 40px" border="2px solid #D4952A" border-radius="6px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="700" color="#111827" line-height="26px" padding="0px">
+          Un deal vous interpelle ?
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text font-size="14px" color="#4b5563" line-height="22px" padding="0px">
+          Contactez-nous pour une analyse détaillée ou un accompagnement sur une opportunité.
+        </mj-text>
+        <mj-spacer height="14px" />
+        <mj-button font-family="'DM Sans', Calibri, Arial, sans-serif" border-radius="6px" inner-padding="11px 28px" font-size="13px" font-weight="600" background-color="#D4952A" color="#ffffff" align="left" padding="0px" href="mailto:contact@auraia.com">
+          Nous contacter
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- ====== FOOTER ====== -->
+    <mj-section padding="20px 40px 28px">
+      <mj-column>
+        <mj-image width="120px" alt="Auraïa Capital Advisory" align="center" padding="0 0 12px 0"
+          src="data:image/png;base64,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" />
+        <mj-text align="center" font-size="12px" color="#4b5563" padding="0px" line-height="20px">
+          Ce digest est préparé à partir de sources publiques.<br/>Les informations ne constituent pas un conseil en investissement.
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text align="center" font-size="11px" color="#4b5563" padding="0px">
+          Généré le 9 avril 2026
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
