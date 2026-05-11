@@ -1,0 +1,236 @@
+<mjml>
+  <mj-head>
+    <mj-font name="DM Sans" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"></mj-font>
+    <mj-attributes>
+      <mj-text font-family="'DM Sans', Calibri, Arial, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-all font-family="'DM Sans', Calibri, Arial, sans-serif" />
+    </mj-attributes>
+    <mj-style>
+      p { margin: 0 !important; }
+      @font-face {
+        font-family: 'DM Sans';
+        mso-font-alt: 'Calibri';
+      }
+      .tag { display: inline-block; padding: 3px 12px; border-radius: 99px; font-size: 11px; font-weight: 600; }
+      .tag-cloud    { background-color: #dbeafe; color: #1e40af; }
+      .tag-cyber    { background-color: #fee2e2; color: #991b1b; }
+      .tag-data     { background-color: #d1fae5; color: #065f46; }
+      .tag-green    { background-color: #fef9c3; color: #854d0e; }
+      .tag-services { background-color: #ede9fe; color: #5b21b6; }
+      .tag-health   { background-color: #d1fae5; color: #065f46; }
+      .tag-legal    { background-color: #fef9c3; color: #92400e; }
+      .tag-supply   { background-color: #dbeafe; color: #1e40af; }
+      .tag-crm      { background-color: #ede9fe; color: #4338ca; }
+      .tag-public   { background-color: #f3f4f6; color: #374151; }
+      .divider-gold { border-color: #D4952A !important; }
+    </mj-style>
+    <mj-preview>5 opérations IT Services — France &amp; Suisse — semaine du 4 au 11 mai 2026</mj-preview>
+  </mj-head>
+
+  <mj-body width="600px">
+
+    <!-- ====== HEADER ====== -->
+    <mj-section padding="32px 40px 24px" border="1px solid #e2e8f0" border-radius="6px">
+      <mj-column width="55%" vertical-align="middle" padding="0">
+        <mj-text font-size="26px" font-weight="700" color="#1a2332" line-height="32px" padding="0px">
+          Digest M&amp;A
+        </mj-text>
+        <mj-text font-size="15px" font-weight="400" color="#374151" line-height="22px" padding="4px 0 0 0">
+          IT Services · France &amp; Suisse
+        </mj-text>
+        <mj-text font-size="12px" color="#4b5563" padding="6px 0 0 0" line-height="18px">
+          4 au 11 mai 2026 · 5 opérations identifiées
+        </mj-text>
+      </mj-column>
+      <mj-column width="45%" vertical-align="middle" padding="0">
+        <mj-image width="160px" alt="Auraïa Capital Advisory" align="right" padding="0px"
+          src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQYAAABECAMAAABUDGvdAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAECUExURQAAACszPiszPykyQCszPyszPys1QCszPyszPyszPysyPysyQCgwQCszQC0zQDAwQCw0QCszPys0QCszPyw0QCsyQCsyQCs1QC0tPCs0PikzQCBAQCszPycuPtubK9ycKys0P9ubLNubK9ubK9ybLNycKyozQN+fINycLNubK9qaKywzP9ubKywzP9ubKdmZLSwzPtycK9eXKCszPxw5OdqaKyszP9+fMCwyPiwzP9ubK9qaKtubK9ubLNubK9ubK9ubLNubK9+fK9maK9ubK9mZKdubKyszPwAAACszPykzPd2cLNaXKdycK9aZKdybLP8AANycK9ycK9WXKtKWLcaOHMh8xkAAAABWdFJOUwCHzzi/9xjX/++nYCB4KBCA31jnQHBIMBGPUAifIXhIt4D/95efaAiv7zDHt684KJffIO4JYOYQKfbPaL9AcIfHjxhY11Dn1gH+Gd5Rpxn2Ac7+MREJRK0SHAAAA" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="6px 0"></mj-section>
+
+    <!-- ====== SYNTHÈSE + RECAP ====== -->
+    <mj-section padding="24px 40px" border="1px solid #e2e8f0" border-radius="6px">
+      <mj-column>
+        <mj-text font-size="15px" color="#1f2937" line-height="26px" padding="0px">
+          <strong style="color: #111827;">Cinq acquisitions françaises, zéro deal suisse.</strong> La semaine du 4 au 11 mai 2026 confirme le dynamisme de la consolidation du logiciel français, portée par des stratégies d'expansion internationale et d'intégration de l'IA. L'IA agentique s'impose comme vecteur d'acquisition (Batch/Moonfish AI, LegalPlace/Legalstart), tandis que des scale-ups françaises conquièrent des marchés étrangers (Doctolib au Royaume-Uni, Shippeo en Allemagne). La consolidation de verticaux SaaS de niche se poursuit sur le marché domestique, illustrée par Berger-Levrault/Gescime pour les collectivités.
+        </mj-text>
+        <mj-spacer height="14px" />
+        <mj-text font-size="14px" font-weight="700" color="#111827" line-height="22px" padding="0px">
+          Dans ce digest :
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text font-size="14px" color="#1f2937" line-height="26px" padding="0px">
+          <ul style="margin: 0; padding-left: 18px;">
+            <li>Doctolib acquiert Medicus Health (Non divulgué) — HealthTech · RU</li>
+            <li>LegalPlace rachète Legalstart (Non divulgué / levée 70 M€) — LegalTech · France</li>
+            <li>Shippeo absorbe Logward (Non divulgué) — Supply Chain SaaS · Allemagne</li>
+            <li>Batch acquiert Moonfish AI (Non divulgué) — CRM &amp; IA · France</li>
+            <li>Berger-Levrault acquiert Gescime (Non divulgué) — SaaS secteur public · France</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="6px 0"></mj-section>
+
+    <!-- ====== DEAL 1 — Opération majeure ====== -->
+    <mj-section padding="24px 40px" border="2px solid #D4952A" border-radius="6px">
+      <mj-column>
+        <mj-image width="32px" src="https://img.logo.dev/doctolib.fr?token=pk_a514bKwfQ2OAdSu_uQBOHA&size=128&format=png" alt="Doctolib" padding="0 0 8px 0" align="left" border-radius="4px" />
+        <mj-text font-size="10px" font-weight="700" color="#D4952A" letter-spacing="1px" text-transform="uppercase" padding="0px">
+          ★ Opération majeure
+        </mj-text>
+        <mj-spacer height="8px" />
+        <mj-text font-size="18px" font-weight="700" color="#111827" line-height="26px" padding="0px">
+          Doctolib → Medicus Health
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text font-size="13px" color="#4b5563" line-height="22px" padding="0px">
+          Annoncé le 6 mai 2026 · Royaume-Uni · <strong style="color: #D4952A;">Non divulgué</strong> · <span class="tag tag-health">HealthTech</span>
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text font-size="14px" color="#1f2937" line-height="24px" padding="0px">
+          Doctolib, la licorne française des soins de santé (Paris), acquiert Medicus, premier nouveau système de dossier clinique agréé par le NHS en 25 ans — une barrière réglementaire que tout entrant aurait mis des années à franchir seul. L'opération s'accompagne d'un engagement d'investissement de plus de 100 M£ au Royaume-Uni et du recrutement de 150 personnes. Pour Doctolib, c'est la première tête de pont hors Europe continentale et une démonstration de sa capacité à exporter un modèle de plateforme de soins primaires numérisés dans des marchés publics complexes.
+        </mj-text>
+        <mj-spacer height="8px" />
+        <mj-text font-size="12px" padding="0px">
+          <a href="https://sifted.eu/articles/doctolib-acquires-medicus-uk-expansion" style="color: #6b7280; font-weight: 600; text-decoration: none; border-bottom: 1px solid #d1d5db; padding-bottom: 1px;">Source ↗</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="6px 0"></mj-section>
+
+    <!-- ====== DEAL 2 ====== -->
+    <mj-section padding="24px 40px" border="1px solid #e2e8f0" border-radius="6px">
+      <mj-column>
+        <mj-image width="28px" src="https://img.logo.dev/legalplace.fr?token=pk_a514bKwfQ2OAdSu_uQBOHA&size=128&format=png" alt="LegalPlace" padding="0 0 6px 0" align="left" border-radius="4px" />
+        <mj-text font-size="17px" font-weight="700" color="#111827" line-height="26px" padding="0px">
+          LegalPlace → Legalstart
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text font-size="13px" color="#4b5563" line-height="22px" padding="0px">
+          Annoncé le 5 mai 2026 · France · <strong style="color: #D4952A;">Non divulgué</strong> (levée 70 M€) · <span class="tag tag-legal">LegalTech</span>
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text font-size="14px" color="#1f2937" line-height="24px" padding="0px">
+          LegalPlace rachète son concurrent historique Legalstart, ses deux principaux rivaux dans la création et la gestion administrative des entreprises en France fusionnant en un seul acteur couvrant près de 20 % des immatriculations nationales. L'opération est adossée à une levée de 70 M€ (XAnge, Eurazeo, Move Capital) pour financer l'accélération vers un CRM IA agentique capable de gérer comptabilité et formalités sans intervention humaine. La consolidation du marché legaltech français se calque ainsi sur le modèle de consolidation B2B-SaaS à l'œuvre dans d'autres verticaux réglementés.
+        </mj-text>
+        <mj-spacer height="8px" />
+        <mj-text font-size="12px" padding="0px">
+          <a href="https://www.maddyness.com/2026/05/05/legalplace-leve-70-millions-deuros-et-sempare-de-legalstart/" style="color: #6b7280; font-weight: 600; text-decoration: none; border-bottom: 1px solid #d1d5db; padding-bottom: 1px;">Source ↗</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="6px 0"></mj-section>
+
+    <!-- ====== DEAL 3 ====== -->
+    <mj-section padding="24px 40px" border="1px solid #e2e8f0" border-radius="6px">
+      <mj-column>
+        <mj-image width="28px" src="https://img.logo.dev/shippeo.com?token=pk_a514bKwfQ2OAdSu_uQBOHA&size=128&format=png" alt="Shippeo" padding="0 0 6px 0" align="left" border-radius="4px" />
+        <mj-text font-size="17px" font-weight="700" color="#111827" line-height="26px" padding="0px">
+          Shippeo → Logward
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text font-size="13px" color="#4b5563" line-height="22px" padding="0px">
+          Annoncé le 4 mai 2026 · Allemagne · <strong style="color: #D4952A;">Non divulgué</strong> · <span class="tag tag-supply">Supply Chain SaaS</span>
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text font-size="14px" color="#1f2937" line-height="24px" padding="0px">
+          Shippeo (Paris), spécialiste français de la visibilité transport en temps réel, absorbe Logward (Hambourg, 80+ salariés), éditeur d'une plateforme no-code d'orchestration des flux logistiques. L'opération vise à combiner deux composantes jusqu'ici séparées : la visibilité (Shippeo) et l'automatisation des réponses aux perturbations (Logward), créant une plateforme unique qui transforme les données de tracking en déclencheurs d'action sans intervention manuelle systématique. Les deux sociétés étaient déjà partenaires depuis 2024, ce qui réduit le risque d'intégration et accélère le time-to-market des synergies produit.
+        </mj-text>
+        <mj-spacer height="8px" />
+        <mj-text font-size="12px" padding="0px">
+          <a href="https://www.voxlog.fr/actualite/10871/shippeo-acquiert-logward-editeur-allemand-d-une-plateforme-d-execution-de-la-supply-chain" style="color: #6b7280; font-weight: 600; text-decoration: none; border-bottom: 1px solid #d1d5db; padding-bottom: 1px;">Source ↗</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="6px 0"></mj-section>
+
+    <!-- ====== DEAL 4 ====== -->
+    <mj-section padding="24px 40px" border="1px solid #e2e8f0" border-radius="6px">
+      <mj-column>
+        <mj-image width="28px" src="https://img.logo.dev/batch.com?token=pk_a514bKwfQ2OAdSu_uQBOHA&size=128&format=png" alt="Batch" padding="0 0 6px 0" align="left" border-radius="4px" />
+        <mj-text font-size="17px" font-weight="700" color="#111827" line-height="26px" padding="0px">
+          Batch → Moonfish AI
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text font-size="13px" color="#4b5563" line-height="22px" padding="0px">
+          Annoncé le 6 mai 2026 · France · <strong style="color: #D4952A;">Non divulgué</strong> · <span class="tag tag-crm">CRM &amp; IA</span>
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text font-size="14px" color="#1f2937" line-height="24px" padding="0px">
+          Batch (Paris, ~20 M€ ARR, 350 marques clientes dont LVMH, SNCF Connect et Orange) réalise sa première acquisition en onze ans en rachetant Moonfish AI, une startup parisienne fondée en 2018 au sein du laboratoire R&amp;D de ClaraVista, spécialisée dans les algorithmes prédictifs pour le marketing client. L'intégration renforce le pilier « Predict » de la feuille de route produit de Batch, qui vise un CRM « agentique » délégant à la machine les décisions de timing, canal, message et diffusion. L'opération illustre la course des plateformes CRM européennes à internaliser la couche ML avant que les hyperscalers ne monopolisent le segment.
+        </mj-text>
+        <mj-spacer height="8px" />
+        <mj-text font-size="12px" padding="0px">
+          <a href="https://www.maddyness.com/2026/05/06/batch-rachete-moonfish-ai-et-lance-sa-strategie-de-croissance-externe/" style="color: #6b7280; font-weight: 600; text-decoration: none; border-bottom: 1px solid #d1d5db; padding-bottom: 1px;">Source ↗</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="6px 0"></mj-section>
+
+    <!-- ====== DEAL 5 ====== -->
+    <mj-section padding="24px 40px" border="1px solid #e2e8f0" border-radius="6px">
+      <mj-column>
+        <mj-image width="28px" src="https://img.logo.dev/berger-levrault.com?token=pk_a514bKwfQ2OAdSu_uQBOHA&size=128&format=png" alt="Berger-Levrault" padding="0 0 6px 0" align="left" border-radius="4px" />
+        <mj-text font-size="17px" font-weight="700" color="#111827" line-height="26px" padding="0px">
+          Berger-Levrault → Gescime
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text font-size="13px" color="#4b5563" line-height="22px" padding="0px">
+          Annoncé le 6 mai 2026 · France · <strong style="color: #D4952A;">Non divulgué</strong> · <span class="tag tag-public">SaaS secteur public</span>
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text font-size="14px" color="#1f2937" line-height="24px" padding="0px">
+          Berger-Levrault (Boulogne-Billancourt, 2 000 salariés en Europe et Canada), éditeur de référence pour les collectivités locales françaises, acquiert Gescime (Brest, 40 salariés), leader de la gestion funéraire SaaS avec plus de 2 000 acteurs publics clients et une croissance de 500 nouvelles mairies depuis 2023. L'opération complète la suite Berger-Levrault sur un domaine à forte spécificité réglementaire — gestion des sites funéraires, cartographie et conformité juridique — tout en donnant à Gescime l'accès à la plateforme IA du groupe. La logique est celle d'un agrégateur de verticaux SaaS pour les mairies, cherchant à devenir le socle technologique unifié de la transformation numérique des collectivités françaises.
+        </mj-text>
+        <mj-spacer height="8px" />
+        <mj-text font-size="12px" padding="0px">
+          <a href="https://www.channelbiz.fr/2026/05/06/berger-levrault-acquiert-gescime-et-elargit-son-offre-saas-pour-les-collectivites/" style="color: #6b7280; font-weight: 600; text-decoration: none; border-bottom: 1px solid #d1d5db; padding-bottom: 1px;">Source ↗</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="6px 0"></mj-section>
+
+    <!-- ====== CTA ====== -->
+    <mj-section padding="24px 40px" border="2px solid #D4952A" border-radius="6px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="700" color="#111827" line-height="26px" padding="0px">
+          Un deal vous interpelle ?
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text font-size="14px" color="#4b5563" line-height="22px" padding="0px">
+          Contactez-nous pour une analyse détaillée ou un accompagnement sur une opportunité.
+        </mj-text>
+        <mj-spacer height="14px" />
+        <mj-button font-family="'DM Sans', Calibri, Arial, sans-serif" border-radius="6px" inner-padding="11px 28px" font-size="13px" font-weight="600" background-color="#D4952A" color="#ffffff" align="left" padding="0px" href="mailto:contact@auraia.com">
+          Nous contacter
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- ====== FOOTER ====== -->
+    <mj-section padding="20px 40px 28px">
+      <mj-column>
+        <mj-image width="120px" alt="Auraïa Capital Advisory" align="center" padding="0 0 12px 0"
+          src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQYAAABECAMAAABUDGvdAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAECUExURQAAACszPiszPykyQCszPyszPys1QCszPyszPyszPysyPysyQCgwQCszQC0zQDAwQCw0QCszPys0QCszPyw0QCsyQCsyQCs1QC0tPCs0PikzQCBAQCszPycuPtubK9ycKys0P9ubLNubK9ubK9ybLNycKyozQN+fINycLNubK9qaKywzP9ubKywzP9ubKdmZLSwzPtycK9eXKCszPxw5OdqaKyszP9+fMCwyPiwzP9ubK9qaKtubK9ubLNubK9ubK9ubLNubK9+fK9maK9ubK9mZKdubKyszPwAAACszPykzPd2cLNaXKdycK9aZKdybLP8AANycK9ycK9WXKtKWLcaOHMh8xkAAAABWdFJOUwCHzzi/9xjX/++nYCB4KBCA31jnQHBIMBGPUAifIXhIt4D/95efaAiv7zDHt684KJffIO4JYOYQKfbPaL9AcIfHjxhY11Dn1gH+Gd5Rpxn2Ac7+MREJRK0SHAAAA" />
+        <mj-text align="center" font-size="12px" color="#4b5563" padding="0px" line-height="20px">
+          Ce digest est préparé à partir de sources publiques.<br/>Les informations ne constituent pas un conseil en investissement.
+        </mj-text>
+        <mj-spacer height="6px" />
+        <mj-text align="center" font-size="11px" color="#9ca3af" padding="0px">
+          Généré le 11 mai 2026
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
